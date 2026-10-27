@@ -6,7 +6,7 @@ I work with networks at school and in my internship, and build apps in my own ti
 **Latest project: [TasteAbroad](https://github.com/Devvzz/tasteabroad)**
 An AI agent that uses Qloo's taste API to rank 105 university cities worldwide by what you love,
 built for the Qloo Agentic Hackathon 2026.
-[Live demo](https://tasteabroad.vercel.app) · [Trailer](https://youtu.be/ok7XA0F1fVQ) · [Devpost](https://devpost.com/software/1511225)
+[Live demo](https://tasteabroad.vercel.app) · [Trailer](https://youtu.be/ZPsv4sWMCSo) · [Devpost](https://devpost.com/software/1511225)
 
 **Also:** Pet Sanctuary Sim, a Roblox game I design and lead (100+ pets, 110+ scripts, server-side anti-cheat),
 and the network, CCTV and Wi-Fi setup for a business during my internship.
